@@ -42,6 +42,5 @@
 *💡 "Biến những ý tưởng tưởng chừng như không thể trên iOS thành trải nghiệm mượt mà mỗi ngày."*
 
 **⭐ Hãy ghé thăm các Repo của mình và thả Star ủng hộ nhé! ⭐**
-
-</div>
 # [Sentechtipsvn](https://browse.shortcuty.app/user/Sentechtipsvn)
+</div>
