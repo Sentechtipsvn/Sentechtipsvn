@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào, mình là Sentechtipvn!
+# 👋 Xin chào, mình là Sentechtipsvn!
 
 ### 📱 Developer & Creator chuyên về Web Clip x iOS Shortcuts
 
