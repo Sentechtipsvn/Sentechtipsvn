@@ -6,9 +6,9 @@
 
 *Đam mê nghiên cứu, sáng tạo và tối ưu hóa trải nghiệm người dùng trên hệ sinh thái Apple.*
 
-![(https://img.shields.io/badge/Facebook-Sentechtipvn-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-![(https://img.shields.io/badge/Shortcuts-Shortcuty-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://browse.shortcuty.app/user/Sentechtipvn)
-![(https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sentechtips@gmail.com)
+[![](https://img.shields.io/badge/Facebook-Sentechtipvn-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![](https://img.shields.io/badge/Shortcuts-Shortcuty-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://browse.shortcuty.app/user/Sentechtipvn)
+[![](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sentechtips@gmail.com)
 
 ---
 
