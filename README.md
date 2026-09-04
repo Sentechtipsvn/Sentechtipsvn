@@ -34,7 +34,7 @@
 ### 🌟 Dự Án Tiêu Biểu
 
 - ❄️ **[Snowboard](https://github.com/Sentechtipsvn/Snowboard):** Webclip giả lập Launcher màn hình chính cho iOS, tích hợp kho icon online, hiệu ứng bóng đổ, viền VisionOS và Dock tùy biến.
-- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f5126614-018f-45b9-84e2-23814ddf093a" /> **[Control]**(https://sentechtipsvn.github.io/Control/Control.mobileconfig) WebClip giả lập trung tâm điều khiển kết hợp phím tắt mở nhanh các tác vụ.
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f5126614-018f-45b9-84e2-23814ddf093a" /> **[Control](https://sentechtipsvn.github.io/Control/Control.mobileconfig)**: WebClip giả lập trung tâm điều khiển kết hợp phím tắt mở nhanh các tác vụ.
 
 
 ---
