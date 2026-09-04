@@ -1,7 +1,6 @@
 <div align="center">
 
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/073791fd-d066-411c-9841-0c6bca6b93d4" />
- Xin chào, mình là Sentechtipsvn!
+# <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/073791fd-d066-411c-9841-0c6bca6b93d4" /> Xin chào, mình là Sentechtipsvn!
 
 ### 📱 Developer & Creator chuyên về Web Clip x iOS Shortcuts
 
