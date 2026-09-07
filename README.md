@@ -1,23 +1,19 @@
-<div align="center">
+<!-- Banner: Bạn có thể tạo ảnh banner ngang rộng và dán link tại đây -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:BF5AF2&height=200&section=header&text=Sentechtipsvn&fontSize=50&fontColor=ffffff" alt="Banner Sentechtipsvn" />
+</p>
 
-# <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/073791fd-d066-411c-9841-0c6bca6b93d4" /> Xin chào, mình là Sentechtipsvn!
+<h1 align="center">👋 Xin chào, mình là Sentechtipsvn!</h1>
 
-### 📱 Developer & Creator chuyên về Web Clip x iOS Shortcuts
-
-*Đam mê nghiên cứu, sáng tạo và tối ưu hóa trải nghiệm người dùng trên hệ sinh thái Apple.*
-
-[![](https://img.shields.io/badge/Facebook-Sentechtipvn-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![](https://img.shields.io/badge/Shortcuts-Shortcuty-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://browse.shortcuty.app/user/Sentechtipsvn)
-[![](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sentechtips@gmail.com)
-
----
-
-</div>
-
-### 🚀 Định Hướng & Dự Án
-- 🍎 **Chuyên sâu iOS Web Clip & PWA:** Tập trung nghiên cứu, phát triển các giải pháp Web Clip kết hợp giao diện kính mờ (VisionOS Glassmorphism), tối ưu hóa trải nghiệm như ứng dụng bản địa (Native App).
-- ⚡ **Tích hợp Phím tắt (Shortcuts):** Phối hợp ứng dụng Phím tắt iOS (URL Schemes, App Intents, x-callback-url) để biến Web Clip thành các bản **giả lập ứng dụng (Fake App Launchers)** mượt mà, độ tùy biến cao.
-- 🎨 **Cá nhân hóa màn hình chính:** Sáng tạo các theme, widget, icon pack độc đáo giúp người dùng làm đẹp giao diện iPhone/iPad mà không cần Jailbreak.
+<p align="center">
+  <b>Developer & Creator chuyên về Web Clip x iOS Shortcuts</b>
+  <br>
+  Đam mê nghiên cứu, sáng tạo và tối ưu hóa trải nghiệm người dùng trên hệ sinh thái Apple.
+  <br><br>
+  <a href="https://sentechtipsvn.github.io/Sentechtipsvn/">
+    <img src="https://img.shields.io/badge/🌐-TRUY CẬP WEBSITE CHÍNH THỨC-0A84FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website chính thức">
+  </a>
+</p>
 
 ---
 
@@ -25,23 +21,45 @@
 
 | Lĩnh vực | Công nghệ / Công cụ |
 | :--- | :--- |
-| **Web Development** | HTML5, CSS3 (Glassmorphism/iOS HIG), JavaScript (ES6+), PWA |
-| **iOS Ecosystem** | Shortcuts, Web Clip Profiles, Apple URL Schemes |
+| **Web Development** | HTML5, CSS3 (Glassmorphism / iOS HIG), JavaScript (ES6+), PWA |
+| **iOS Ecosystem** | Shortcuts, Web Clip Profiles, Apple URL Schemes, App Intents |
 | **Hosting & Tooling** | GitHub Pages, VS Code, Service Workers |
 
 ---
 
-### 🌟 Dự Án Tiêu Biểu
+### 🚀 Định Hướng & Dự Án
 
-- ❄️ **[Snowboard](https://github.com/Sentechtipsvn/Snowboard):** Webclip giả lập Launcher màn hình chính cho iOS, tích hợp kho icon online, hiệu ứng bóng đổ, viền VisionOS và Dock tùy biến.
-- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f5126614-018f-45b9-84e2-23814ddf093a" /> **[Control](https://sentechtipsvn.github.io/Control/Control.mobileconfig)**: WebClip giả lập trung tâm điều khiển kết hợp phím tắt mở nhanh các tác vụ.
+#### [❄️ Snowboard]([LINK DỰ ÁN CỦA BẠN])
+Webclip giả lập Launcher màn hình chính cho iOS. Tích hợp kho icon online, hiệu ứng bóng đổ, viền VisionOS và Dock tùy biến.
 
+#### [🎮 Control]([LINK DỰ ÁN CỦA BẠN])
+WebClip giả lập trung tâm điều khiển kết hợp phím tắt mở nhanh các tác vụ. Sử dụng Web Clip và Shortcuts để biến chúng thành các ứng dụng giả lập.
+
+#### 🎨 Cá nhân hóa màn hình chính
+Sáng tạo các theme, widget, icon pack độc đáo giúp người dùng làm đẹp giao diện iPhone/iPad mà không cần Jailbreak.
 
 ---
 
-<div align="center">
+### 📬 Kết Nối
 
-*💡 "Biến những ý tưởng tưởng chừng như không thể trên iOS thành trải nghiệm mượt mà mỗi ngày."*
+<p align="center">
+  <a href="[LINK FACEBOOK CỦA BẠN]">
+    <img src="https://img.shields.io/badge/Facebook-Sentechtipsvn-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  
+  <a href="[LINK SHORTCUTTY/TRANG CỦA BẠN]">
+    <img src="https://img.shields.io/badge/Shortcuts-Shortcutty-FF9500?style=for-the-badge&logo=apple&logoColor=white" alt="Shortcuts">
+  </a>
+  
+  <a href="mailto:emailcuaban@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-**⭐ Hãy ghé thăm các Repo của mình và thả Star ủng hộ nhé! ⭐**
-</div>
+---
+
+<p align="center">
+  <i>💡 "Biến những ý tưởng tưởng chừng như không thể trên iOS thành trải nghiệm mượt mà mỗi ngày."</i>
+  <br><br>
+  ⭐ Hãy ghé thăm các Repo của mình và thả Star ủng hộ nhé! ⭐
+</p>
