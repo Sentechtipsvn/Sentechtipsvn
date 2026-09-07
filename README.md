@@ -1,6 +1,6 @@
 <!-- Banner: Bạn có thể tạo ảnh banner ngang rộng và dán link tại đây -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradient&text=Sentechtipsvn%20&section=footer&reversal=true&descAlign=60&fontSize=80&textBg=false&fontColor=008080” alt="Banner Sentechtipsvn” />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:BF5AF2&height=200&section=header&text=Sentechtipsvn&fontSize=50&fontColor=ffffff" alt="Banner Sentechtipsvn" />
 </p>
 
 <h1 align="center">👋 Xin chào, mình là Sentechtipsvn!</h1>
