@@ -26,20 +26,6 @@
 | **Hosting & Tooling** | GitHub Pages, VS Code, Service Workers |
 
 ---
-
-### 🚀 Định Hướng & Dự Án
-
-#### [❄️ Snowboard]([LINK DỰ ÁN CỦA BẠN])
-Webclip giả lập Launcher màn hình chính cho iOS. Tích hợp kho icon online, hiệu ứng bóng đổ, viền VisionOS và Dock tùy biến.
-
-#### [🎮 Control]([LINK DỰ ÁN CỦA BẠN])
-WebClip giả lập trung tâm điều khiển kết hợp phím tắt mở nhanh các tác vụ. Sử dụng Web Clip và Shortcuts để biến chúng thành các ứng dụng giả lập.
-
-#### 🎨 Cá nhân hóa màn hình chính
-Sáng tạo các theme, widget, icon pack độc đáo giúp người dùng làm đẹp giao diện iPhone/iPad mà không cần Jailbreak.
-
----
-
 ### 📬 Kết Nối
 
 <p align="center">
@@ -47,11 +33,11 @@ Sáng tạo các theme, widget, icon pack độc đáo giúp người dùng làm
     <img src="https://img.shields.io/badge/Facebook-Sentechtipsvn-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   
-  <a href="[LINK SHORTCUTTY/TRANG CỦA BẠN]">
+  <a href="https://browse.shortcuty.app/user/Sentechtipsvn">
     <img src="https://img.shields.io/badge/Shortcuts-Shortcutty-FF9500?style=for-the-badge&logo=apple&logoColor=white" alt="Shortcuts">
   </a>
   
-  <a href="mailto:emailcuaban@gmail.com">
+  <a href="mailto:sentechtips@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
