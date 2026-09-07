@@ -11,7 +11,7 @@
   Đam mê nghiên cứu, sáng tạo và tối ưu hóa trải nghiệm người dùng trên hệ sinh thái Apple.
   <br><br>
   <a href="https://sentechtipsvn.github.io/Sentechtipsvn/">
-    <img src="https://img.shields.io/badge/🌐-TRUY CẬP WEBSITE CHÍNH THỨC-0A84FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/🌐 • WEBSITE CHÍNH THỨC-0A84FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website">
   </a>
 </p>
 
