@@ -1,0 +1,101 @@
+{
+  "name": "Sentechtipsvn",
+  "subtitle": "Ứng dụng iOS của Sentechtipsvn",
+  "website": "https://github.com/Sentechtipsvn/Sentechtipsvn",
+  "iconURL": "https://raw.githubusercontent.com/Sentechtipsvn/Sweep/a9f796d79f0364d0dd6bb300435f1d8f83c26dd5/Sweep/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+  "tintColor": "34C759",
+  "featuredApps": [
+    "com.sentechtipsvn.stikdebugvn",
+    "com.sentechtipsvn.sweep"
+  ],
+  "apps": [
+    {
+      "name": "StikDebug VN",
+      "bundleIdentifier": "com.sentechtipsvn.stikdebugvn",
+      "developerName": "StikDebug · SenTechTipsVN",
+      "localizedDescription": "StikDebug VN — mô phỏng vị trí GPS và tuyến đường bằng tiếng Việt. Hỗ trợ xe máy/ô tô, nhiều điểm dừng, chỉnh tốc độ, tạm dừng và lưu tuyến.\n\nYêu cầu sử dụng:\n• iOS 17.4 trở lên. Bản VN đã kiểm thử trên iOS 18.7.8; chưa xác nhận giới hạn iOS tối đa.\n• Cài LocalDevVPN và duy trì VPN khi dùng mô phỏng vị trí hoặc JIT.\n• Nhập tệp ghép đôi (pairing) hợp lệ của chính thiết bị.\n• Có kết nối mạng để tải bản đồ và tính tuyến mới.\n\nCài/cập nhật qua AltStore Classic cần AltServer trên máy tính.\n\nBản tuỳ biến từ StikDebug bởi © Sentechtipsvn. Giấy phép AGPL-3.0.",
+      "iconURL": "https://raw.githubusercontent.com/dammeiosvn/Stikdebug-VN/bc446cbc4f6267cde2d37e1cd8a2970641a24799/assets/StikDebug.png",
+      "tintColor": "34C759",
+      "versions": [
+        {
+          "version": "3.2.9",
+          "buildVersion": "9",
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/dammeiosvn/Stikdebug-VN/releases/download/vn-v3.2.9-build9/StikDebug-VN-3.2.9-bc446cb.ipa",
+          "size": 17983972,
+          "sha256": "c111953c90a202c6df3798df4e217bc7633df63a07b571e1107c48116f295eb2",
+          "minOSVersion": "17.4",
+          "localizedDescription": "• Mô phỏng tuyến xe máy/ô tô, hỗ trợ nhiều điểm dừng và thời gian nghỉ.\n• Chỉnh tốc độ, tạm dừng/tiếp tục và lưu tuyến.\n• Giao diện tiếng Việt, bảng điều khiển gọn và mũi tên di chuyển.\n• Cài đặt và nhận các bản cập nhật qua nguồn AltStore StikDebug VN."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "StikDebug VN cần truy cập mạng cục bộ để kết nối và gỡ lỗi thiết bị của Sếp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "StikDebug VN dùng vị trí để chọn điểm đi và duy trì phiên mô phỏng hoặc JIT khi chạy nền.",
+          "NSLocationWhenInUseUsageDescription": "StikDebug VN dùng vị trí để chọn điểm đi và duy trì phiên mô phỏng hoặc JIT khi chạy nền."
+        }
+      },
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/dammeiosvn/Stikdebug-VN/c5804060bf27bb253faaf8a430a3613f04ba25de/assets/altstore/3.2.9/route-simulation.png",
+          "width": 828,
+          "height": 1792
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/dammeiosvn/Stikdebug-VN/c5804060bf27bb253faaf8a430a3613f04ba25de/assets/altstore/3.2.9/location-hold.png",
+          "width": 828,
+          "height": 1792
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/dammeiosvn/Stikdebug-VN/c5804060bf27bb253faaf8a430a3613f04ba25de/assets/altstore/3.2.9/tools.png",
+          "width": 828,
+          "height": 1792
+        }
+      ]
+    },
+    {
+      "name": "Sendeli",
+      "bundleIdentifier": "com.sentechtipsvn.sweep",
+      "developerName": "SenTechTipsVN",
+      "subtitle": "Quản lý đơn và đối soát giao hàng",
+      "localizedDescription": "Sendeli giúp nhận ảnh phiếu từ bảng chia sẻ hoặc thư viện Ảnh, quản lý đơn giao hàng, tạo VietQR theo số tiền, chỉ đường Google Maps và đối soát theo tháng.\n\nYêu cầu iOS 17.0 trở lên. Khi cài, giữ tiện ích mở rộng để nhận ảnh từ bảng chia sẻ.",
+      "iconURL": "https://raw.githubusercontent.com/Sentechtipsvn/Sweep/a9f796d79f0364d0dd6bb300435f1d8f83c26dd5/Sweep/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "tintColor": "34C759",
+      "versions": [
+        {
+          "version": "0.9.2",
+          "buildVersion": "19",
+          "date": "2026-11-22",
+          "downloadURL": "https://raw.githubusercontent.com/Sentechtipsvn/Sentechtipsvn/f87fb1b1b3deec3d1a0e66bb77a173e3d8765304/altstore/releases/0.9.2/Sendeli-0.9.2-build19-fix.ipa",
+          "size": 4294133,
+          "sha256": "7e32aca4f7a69e0e1017fba84b0598997c98da564241d8d9adff54664d988a9a",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Rút gọn tên tiệm khi nhận phiếu. Bỏ phiếu nhập nhầm hoặc vuốt đơn đang giao để hủy. Chạm để xem ảnh và nhấn giữ để đổi hoặc xoá ảnh chữ ký, chuyển khoản và hàng giao."
+        },
+        {
+          "version": "0.4.0",
+          "buildVersion": "7",
+          "date": "2026-11-14",
+          "downloadURL": "https://raw.githubusercontent.com/Sentechtipsvn/Sweep/a8f31f71fd5b12040a321c5f1c748f75c2b4109c/Releases/0.4.0/Sweep-0.4.0-AltStore.ipa",
+          "size": 1296709,
+          "sha256": "25b01fcd19cc66d84792e9a72d779a14a9526523eb2058477154f75cc92754ef",
+          "minOSVersion": "17.0",
+          "localizedDescription": "• Nhận thêm định dạng ảnh và chọn ảnh từ thư viện.\n• Chọn từng ảnh gửi, nội dung chuyển khoản ngắn gọn.\n• Chỉ đường bằng Google Maps.\n• Hai nguồn ảnh: Chọn ảnh và Chụp ảnh.\n• Đối soát theo tháng, tự chuyển kỳ mới và giữ lịch sử."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Sendeli chụp phiếu đơn hàng, phiếu khách ký hoặc ảnh giao dịch khi Sếp chọn Chụp.",
+          "NSLocationWhenInUseUsageDescription": "Sendeli lưu vị trí giao hàng khi Sếp chọn Lấy vị trí hiện tại.",
+          "NSPhotoLibraryAddUsageDescription": "Sendeli lưu bản ảnh đã nén vào thư viện khi Sếp chọn Lưu ảnh.",
+          "NSPhotoLibraryUsageDescription": "Sendeli đọc những ảnh Sếp cho phép để tìm bản trùng, xem ảnh chụp màn hình và xóa các ảnh Sếp xác nhận."
+        }
+      }
+    }
+  ],
+  "news": []
+}
